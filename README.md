@@ -1,6 +1,5 @@
 # TamaDoggy
 =============
-
 Tamagotchi clone game in Processing
 
 ## Information
